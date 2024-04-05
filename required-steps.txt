@@ -1,0 +1,4 @@
+sudo mkdir /mnt/cgroup2 && sudo mount -t cgroup2 none /mnt/cgroup2
+
+// command to convert .mp4 to .gif
+ffmpeg -i input.mp4 -vf "fps=10,scale=1200:-1:flags=lanczos" -c:v gif -b:v 2M -q:v 10 output.gif

@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "sched.h": "c",
+        "types.h": "c",
+        "bpf_endian.h": "c",
+        "sockfilter.h": "c",
+        "bpf_elf.h": "c",
+        "tcp.h": "c",
+        "ip.h": "c",
+        "ipv6.h": "c",
+        "socket.h": "c",
+        "net.h": "c",
+        "bpf.h": "c",
+        "in.h": "c",
+        "if_ether.h": "c",
+        "vmlinux.h": "c",
+        "bpf_helpers.h": "c",
+        "sem.h": "c",
+        "shm.h": "c",
+        "bpf_tracing.h": "c",
+        "ptrace.h": "c",
+        "stdbool.h": "c",
+        "in6.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
